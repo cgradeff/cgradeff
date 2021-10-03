@@ -9,12 +9,12 @@
 - 😳 Fun fact: I really love math!
 
 #### Languages & Skills
-[](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=4AB197)
 
 #### 📈 Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cgradeff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
