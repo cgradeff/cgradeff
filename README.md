@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=549bee)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=549bee)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=549bee)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html&logoColor=white&color=549bee)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=CSS&logoColor=white&color=549bee)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=549bee)
 
